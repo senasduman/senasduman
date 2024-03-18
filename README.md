@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning PHP and Python.
+- 🔭 My goal is to become a proficient and skilled programmer in the field of computer science.
+
 <!--
 **senasduman/senasduman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
